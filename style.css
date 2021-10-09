@@ -1,6 +1,11 @@
 body {
     background-color: #FFF5F3;
 }
-h2{
+/* h2{
     text-decoration: underline;
+} */
+
+hr {
+    background-color: black;
+    border-top: 2px solid black;
 }
