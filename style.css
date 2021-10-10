@@ -19,3 +19,7 @@ hr {
     color: white;
     text-align: center;
  }
+ #footertext{
+     text-align: left;
+     margin-top: 50px;
+ }
